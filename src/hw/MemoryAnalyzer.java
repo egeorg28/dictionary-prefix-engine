@@ -9,7 +9,7 @@ package hw;
  * This class is mainly for quick experiments and sanity checks,
  * not for full memory comparison (that’s what MemoryEx does).
  */
-public class Memory {
+public class MemoryAnalyzer{
 
     public static void main(String[] args) {
 
