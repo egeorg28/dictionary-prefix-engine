@@ -1,1 +1,7 @@
-
+app
+apple
+application
+apply
+banana
+band
+bandana
