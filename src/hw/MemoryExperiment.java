@@ -1,6 +1,6 @@
 package hw;
 
-public class MemoryEx {
+public class MemoryExperiment {
 
     // Theoretical memory cost model for different primitive types and references.
     // These are NOT exact JVM values, but a simplified model used for comparison.
